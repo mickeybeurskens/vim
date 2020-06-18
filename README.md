@@ -2,5 +2,5 @@
 
 My vim configuration files.
 
-Clone to home directory, simlink `~/.vimrc` to `~/.vim/vimrc` and you are good to go!
+Clone to home directory in `.vim`, simlink `~/.vim/vimrc` to `~/.vimrc` and you are good to go!
 

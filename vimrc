@@ -1,7 +1,7 @@
 :set relativenumber
 :set number
 
-# Insert 4 spaces on tab
+" Insert 4 spaces on tab
 :set tabstop=4
 :set shiftwidth=4
 :set expandtab
